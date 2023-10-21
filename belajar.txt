@@ -5,6 +5,7 @@ RENCANA BELAJAR OKTA
 - Advance Js
    * Framework 
      ^ Angular
+     ^ Vue
 - Struktur Data
 - Phyton
 - Wordpress
