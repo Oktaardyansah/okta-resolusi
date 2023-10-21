@@ -3,7 +3,9 @@ RENCANA BELAJAR OKTA
    * Semantic HTML
    * Accesibility
 - Advance Js
-   * Framework
-     ^ React
-- Typescript
+   * Framework 
+     ^ Angular
+     ^ Vue
+- Struktur Data
+- Phyton
 - Flutter
