@@ -3,4 +3,8 @@ RENCANA BELAJAR OKTA
    * Semantic HTML
    * Accesibility
 - Advance Js
+   * Framework 
+     ^ Angular
+- Struktur Data
+- Phyton
 - Wordpress
