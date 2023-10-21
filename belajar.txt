@@ -3,4 +3,7 @@ RENCANA BELAJAR OKTA
    * Semantic HTML
    * Accesibility
 - Advance Js
-- Wordpress
+   * Framework
+     ^ React
+- Typescript
+- Flutter
