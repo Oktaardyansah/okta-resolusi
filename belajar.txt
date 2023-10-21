@@ -1,4 +1,6 @@
 RENCANA BELAJAR OKTA
 - HTML 5 
+   * Semantic HTML
+   * Accesibility
 - Advance Js
 - Wordpress
