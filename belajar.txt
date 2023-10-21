@@ -8,4 +8,4 @@ RENCANA BELAJAR OKTA
      ^ Vue
 - Struktur Data
 - Phyton
-- Wordpress
+- Flutter
